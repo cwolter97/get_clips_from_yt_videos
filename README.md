@@ -1,5 +1,6 @@
 # get_clips_from_yt_videos
 Script used to download videos from youtube video then crop random chunks based on values in config.json
+
 Settings you can set:
  - Desired Video Quality
     - Will automatically downgrade if unavailable
