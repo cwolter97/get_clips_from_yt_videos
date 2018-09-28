@@ -1,0 +1,18 @@
+{
+	"quality":"1080p",
+	"quantity":2,
+	"frequency":1,
+	"chunk_seconds":15,
+	"chunk_quantity":3,
+	"ignore_start_seconds":30,
+	"ignore_end_seconds":60,
+	"output_directory":"./videos/",
+	"videos":[
+		"https://www.youtube.com/watch?v=zshjQN4rwM4",
+		"https://www.youtube.com/watch?v=m7Bc3pLyij0",
+		"https://www.youtube.com/watch?v=1awdawdn-2s",
+		"https://www.youtube.com/watch?v=b7a5wd11aj0",
+		"https://www.youtube.com/watch?v=Law6895d41s",
+		"https://www.youtube.com/watch?v=maw645d1da1"
+	]
+}
